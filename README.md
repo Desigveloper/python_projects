@@ -1,2 +1,2 @@
-# jetbrain_python_projects
-This is a collection of JetBrain Academy projects
+# Python_projects
+This is a collection of mini python projects
